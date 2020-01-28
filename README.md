@@ -41,14 +41,14 @@
     
  ## ***Other Stuff that You Might Be Interested In*** ##   
  
- https://github.com/Lemon-cmd/GuassianNB 
- https://github.com/Lemon-cmd/MultinominalNB
- https://github.com/Lemon-cmd/Neural-Network-Python
- https://github.com/Lemon-cmd/Neural-Network
- https://github.com/Lemon-cmd/A-star
- https://github.com/Lemon-cmd/Dijkstra
- https://github.com/Lemon-cmd/RainbowTable
- https://github.com/Lemon-cmd/RSA
+ https://github.com/Lemon-cmd/GuassianNB      
+ https://github.com/Lemon-cmd/MultinominalNB.       
+ https://github.com/Lemon-cmd/Neural-Network-Python         
+ https://github.com/Lemon-cmd/Neural-Network     
+ https://github.com/Lemon-cmd/A-star    
+ https://github.com/Lemon-cmd/Dijkstra    
+ https://github.com/Lemon-cmd/RainbowTable     
+ https://github.com/Lemon-cmd/RSA    
  
     
 
