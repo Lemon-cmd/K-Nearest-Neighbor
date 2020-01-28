@@ -39,4 +39,16 @@
     If it is a classification problem, the mode of each structure's Y is calculated and return. 
     If it is a regression problem, the Y value of each structure are calculated as mean.    
     
+ ## ***Other Stuff that You Might Be Interested In*** ##   
+ 
+ https://github.com/Lemon-cmd/GuassianNB 
+ https://github.com/Lemon-cmd/MultinominalNB
+ https://github.com/Lemon-cmd/Neural-Network-Python
+ https://github.com/Lemon-cmd/Neural-Network
+ https://github.com/Lemon-cmd/A-star
+ https://github.com/Lemon-cmd/Dijkstra
+ https://github.com/Lemon-cmd/RainbowTable
+ https://github.com/Lemon-cmd/RSA
+ 
+    
 
